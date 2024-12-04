@@ -8,7 +8,7 @@ Pada januari 2023 tercatat hanya 900 unit mobil taksi green yang beroperasi di N
 Hal yang perlu di analisis:
 
 **1. Persebaran wilayah**
-- identifikasi area atau kawan dengan tingkat permintaan tinggi dan rendah
+- identifikasi area atau kawasan dengan tingkat permintaan tinggi dan rendah
 
 **2. Pendapatan**
 - identifikasi pendapatan untuk melihat performa.
